@@ -55,5 +55,6 @@
 <p>Hello World</p>
 </div>
 
-<h1><marquee behavior="scroll" direction="left">Hurray....my project is successfully completed....!!!!!!!</marquee></h1>
-<h1>checking ......</h1>
+<marquee behavior="scroll" direction="left">Hurray....my project is successfully completed....!!!!!!!</marquee>
+<h1><Hurray....my project is successfully completed....!!!!!!!</h1>
+
