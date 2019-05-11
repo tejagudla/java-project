@@ -56,5 +56,5 @@
 </div>
 
 <marquee behavior="scroll" direction="left">Hurray....my project is successfully completed....!!!!!!!</marquee>
-<h1><Hurray....my project is successfully completed....!!!!!!!</h1>
+<h1>Hurray....my project is successfully completed....!!!!!!!</h1>
 
